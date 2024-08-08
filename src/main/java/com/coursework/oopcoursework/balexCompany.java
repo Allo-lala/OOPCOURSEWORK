@@ -21,7 +21,7 @@ public class balexCompany {
             return;
         }
         if (hoursWorked > MAX_HOURS) {
-            System.out.println(" Hours worked cannot exceed 60 hours per week.");
+            System.out.println("Hours worked cannot exceed 60 hours per week.");
             return;
         }
 
